@@ -20,15 +20,15 @@ Ensure you have Node.js and npm installed on your machine.
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/UdayPanda/Accuknox-Assesment.git
+    cd Accuknox-Assesment
     ```
 
     or
 
     Unzip the repository provided in drive
      ```bash
-    cd <repository-directory>
+    cd Accuknox-Assesment
     ```
 
 2. **Install Dependencies**:
